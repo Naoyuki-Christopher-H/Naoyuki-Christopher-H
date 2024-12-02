@@ -14,5 +14,7 @@ If you'd like to support the project with a cryptocurrency donation, here are th
 ## Links
 
 - [Naoyuki Christopher's Offical Academic GitHub Account](https://github.com/HChristopherNaoyuki)
+- [Naoyuki Christopher's Instagram Account](https://www.instagram.com/archives_of_chris/)
+- [Naoyuki Christopher's X Account](https://x.com/ArchivesOfChris)
 
 ---
