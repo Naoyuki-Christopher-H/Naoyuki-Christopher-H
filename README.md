@@ -2,10 +2,6 @@
 
 Hi there! Welcome to my official GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
 
-## Work
-
-I am currently working on a Basic Banking System in Java.
-
 ## Technologies & Tools
 
 Here are some of the technologies I work with:
