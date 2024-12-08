@@ -1,6 +1,6 @@
 # Naoyuki Christopher H.
 
-Hi there! Welcome to my official GitHub account. I’m passionate about coding, problem-solving, and continuously learning new technologies.
+Hi there! Welcome to my official GitHub account.
 
 ## Technologies & Tools
 
