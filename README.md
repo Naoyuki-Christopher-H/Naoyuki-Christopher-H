@@ -1,46 +1,51 @@
-# Greetings
+# Greetings!
 
-Welcome to my official GitHub account.
+Welcome to my GitHub account.
 
----
-
-## About Me
+## About
 
 Hey there! I am Naoyuki Christopher.
 
 ---
 
-## Current Learning
+## Current Focus
 
-I am currently diving deep into the following technologies:
+I’m currently focusing on learning and experimenting with these technologies:
 
 - PHP
-- SQL
 - Objective-C
 - C#
 - C++
 
 ---
 
-## Skills & Technologies
+## Skills & Expertise
 
-Here are the tools and languages I work with:
+I have experience in the following areas:
 
-- **Languages:** Java, JavaScript, CSS, HTML, Python, C, Swift
-- **Web Development:** HTML, CSS, JavaScript
-- **Data & Databases:** SQL
-- **Version Control:** Git, GitHub
+- **Programming Languages**: Java, JavaScript, CSS, HTML, Python, C, Swift
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: SQL
+- **Version Control**: Git, GitHub
+
+---
+
+## How to Cite My Work
+
+If you’d like to cite any of my repositories, use the format below:
+
+```
+Author(s). (Year). *Title of Repository*. Available at: [URL] (Accessed: [Date]).
+```
 
 ---
 
 ## Contributing
 
-Contributions to my projects are always welcome! If you'd like to collaborate, improve, or expand on any of the work here, please feel free to fork the repository and submit a pull request.
+Feel free to fork my projects and submit a pull request! I welcome contributions and will review them to improve the projects.
 
 ---
 
-### Thank you for visiting!
+## Thank You for Visiting!
 
-Thank you for checking out my profile on GitHub!
-
----
+I appreciate your interest in my work, and I hope you find something useful or inspiring here.
