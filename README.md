@@ -1,6 +1,6 @@
 # Greetings!
 
-Welcome to my GitHub account.
+Welcome to my official GitHub account.
 
 ## About
 
