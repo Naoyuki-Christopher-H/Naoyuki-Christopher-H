@@ -51,7 +51,7 @@ Thank you for your support!
 
 I’m always open to discussions, collaborations, and new ideas. Feel free to reach out!
 
-🔗 **LeetCode**: [PROFILE LINK](https://leetcode.com/u/YukiKapan/)
+🔗 **LeetCode**: [LeetCode](https://leetcode.com/u/YukiKapan/)
 
 Thank you for visiting my profile.
 
