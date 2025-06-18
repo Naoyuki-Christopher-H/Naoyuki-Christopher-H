@@ -56,5 +56,3 @@ I’m always open to discussions, collaborations, and new ideas. Feel free to re
 Thank you for visiting my profile.
 
 ---
-
-Let me know if you'd like to add other platform links (e.g., LinkedIn, Dev.to, HackerRank).
