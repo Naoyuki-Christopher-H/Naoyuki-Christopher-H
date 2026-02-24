@@ -19,7 +19,7 @@ Designed to be understood, reviewed, and reused.
 
 ## Tips
 
-If you find this work valuable, your support is welcome.”
+If you find this work valuable, your support is welcome.
 
 - **Bitcoin (BTC)**: `bc1qssyczsfm70qjglpjzhcxpyl5xdafwwlyhucn6u`  
 - **Ethereum (ETH)**: `0x23900f5681bC2f1696fd9Fa20dc187830CA3fB76`  
