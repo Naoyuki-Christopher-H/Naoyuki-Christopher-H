@@ -4,8 +4,9 @@
 
 This profile belongs to a software developer. The developer follows a
 minimalist philosophy. Core topics include mathematics, computer science,
-software engineering, and software development. The tone is direct and
-factual. No unsolicited collaboration is accepted.
+software engineering, and software development. 
+
+No unsolicited collaboration is accepted.
 
 ## 2. Professional Focus
 
