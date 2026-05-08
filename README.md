@@ -1,15 +1,11 @@
 # Naoyuki "Yuki" Christopher H.
 
----
-
 ## 1. Overview
 
 This profile belongs to a software developer. The developer follows a
 minimalist philosophy. Core topics include mathematics, computer science,
 software engineering, and software development. The tone is direct and
 factual. No unsolicited collaboration is accepted.
-
----
 
 ## 2. Professional Focus
 
@@ -20,16 +16,12 @@ and correctness. Nothing unnecessary is included. Code follows the
 Allman style, with brackets placed on new lines. Comments are detailed
 and professional, suitable for an intermediate level audience.
 
----
-
 ## 3. Social Networking Platforms
 
 - **LeetCode**: [YukiKapan](https://leetcode.com/u/YukiKapan/)
 - **Personal GitHub**: [Naoyuki-Christopher-H](https://github.com/Naoyuki-Christopher-H)
 - **Academic GitHub**: [HChristopherNaoyuki](https://github.com/HChristopherNaoyuki)
 - **Professional GitHub**: [NaoyukiChristopherYuki](https://github.com/NaoyukiChristopherYuki)
-
----
 
 ## 4. Closing Statement
 
