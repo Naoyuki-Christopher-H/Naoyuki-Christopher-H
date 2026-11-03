@@ -14,8 +14,7 @@
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
 |  - Primary: Linux                                             |
-|  - Secondary: macOS                                           |
-|  - Virtual Machine: Windows                                   |
+|  - Virtual Machine: Windows 10, Windows 11                    |
 +---------------------------------------------------------------+
 |  FOCUS                                                        |
 |  - Software Engineering                                       |
