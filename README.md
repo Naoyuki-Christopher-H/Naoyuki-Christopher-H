@@ -17,6 +17,7 @@
 |  - Virtual Machine: Windows 10, Windows 11                    |
 +---------------------------------------------------------------+
 |  FOCUS                                                        |
+|  - Computer Science                                           |
 |  - Software Engineering                                       |
 |  - Software Development                                       |
 +---------------------------------------------------------------+
