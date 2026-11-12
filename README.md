@@ -5,16 +5,16 @@
 +---------------------------------------------------------------+
 |  ATTRIBUTES                                                   |
 |                                                               |
-|  Problem Solving       74                                     |
-|  Code Quality          74                                     |
-|  Technical Accuracy    74                                     |
-|  Clarity & Simplicity  74                                     |
-|  Mathematics           74                                     |
-|  Computer Science      74                                     |
+|  Problem Solving       79                                     |
+|  Code Quality          79                                     |
+|  Technical Accuracy    79                                     |
+|  Clarity & Simplicity  79                                     |
+|  Mathematics           79                                     |
+|  Computer Science      79                                     |
 +---------------------------------------------------------------+
 |  PREFERRED OS                                                 |
-|  - Primary: Linux                                             |
-|  - Virtual Machine: Windows 10, Windows 11                    |
+|  - Primary: Fedora Linux                                      |
+|  - Virtual Machine: Windows 10                                |
 +---------------------------------------------------------------+
 |  FOCUS                                                        |
 |  - Computer Science                                           |
